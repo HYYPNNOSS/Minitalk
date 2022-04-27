@@ -1,2 +1,0 @@
-# Minitalk
-project_4
